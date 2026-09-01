@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/rpg_game.dir/main.cpp.o -o rpg_game 
