@@ -1,5 +1,14 @@
+#include "Game.hpp"
+
+Game::Game(){
+
+}
+
+void Game::play(){
+    this->loop();
+}
 
 
-Game::game(){
+void Game::loop(){
 
 }
